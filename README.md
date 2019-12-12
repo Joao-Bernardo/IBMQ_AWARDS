@@ -3,7 +3,7 @@ Project for the IBMQ awards 2019 contest
 
 ## Description
 
-Welcome to the **QUANTIC TETRIS!** This is a almost normal Tetris game, the only different is that it is based on some quantum mechanics properties like  **superposition**, **wave function colapse**, **entanglement** and **mixed states**. If you want to master this game you will need to apply some quantum logic gates like **X**, **Hadamard**, **Z** and **CNOT** to manipulate your state and score a lot of points!
+Welcome to the **QUANTIC TETRIS!** This is an almost normal Tetris game, the only different is that it is based on some quantum mechanics properties like  **superposition**, **wave function colapse**, **entanglement** and **mixed states**. If you want to master this game you will need to apply some quantum logic gates like **X**, **Hadamard**, **Z** and **CNOT** to manipulate your state and score a lot of points!
 
 ![Image of the game](https://github.com/Joao-Bernardo/IBMQ_AWARDS/blob/master/main_photo.png)
 
