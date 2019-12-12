@@ -32,3 +32,10 @@ r - toggle **CNOT** gate
 
 2 - toggle **qubit 2** as the one in wich the gate will be applied (if the gate is CNOT, it chooses **qubit 2** as the control)
 
+## Tutorial
+
+In order to master the Quantic Tetris you will need to learn how to manipulate quantum states! To perform this manipulation you are going to apply the the basic gates used in quantum computing, called **quantum logic gates**. A brief explanation of how these gates works is going to be presented but, first, its necessary to understand what is a quantum state.
+
+### Quantum States
+Every stone in the **Quantic Tetris** is a quantum state. Each of the states is composed of two qubits, where
+
