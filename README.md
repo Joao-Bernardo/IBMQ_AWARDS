@@ -31,3 +31,4 @@ r - toggle **CNOT** gate
 1 - toggle **qubit 1** as the one in wich the gate will be applied (if the gate is CNOT, it chooses **qubit 1** as the control)
 
 2 - toggle **qubit 2** as the one in wich the gate will be applied (if the gate is CNOT, it chooses **qubit 2** as the control)
+
