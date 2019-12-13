@@ -1,5 +1,7 @@
 # IBMQ_AWARDS
-Project for the IBMQ awards 2019 contest
+Project for the IBMQ awards 2019 contest. Watch the video below!
+
+https://www.youtube.com/watch?v=VuZNc3Ej0ME&t=6s
 
 ## Description
 
