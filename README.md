@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=VuZNc3Ej0ME&t
 
 Welcome to the **QUANTIC TETRIS!** This is an almost normal Tetris game, but with a small difference that it is based on quantum mechanics properties like  **superposition**, **wave function colapse**, **entanglement** and **mixed states**. If you want to master this game you will need to apply some quantum logic gates like **X**, **Hadamard**, **Z** and **CNOT** to manipulate your state and score a lot of points!
 
-![Image of the game](https://github.com/Joao-Bernardo/IBMQ_AWARDS/blob/master/images/main_photo.png)
+![Image of the game](https://github.com/Joao-Bernardo/IBMQ_AWARDS/blob/master/images/quantic_tetris_gif.gif)
 
 ## Controls
 ### Movement
