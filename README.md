@@ -32,6 +32,12 @@ r - toggle **CNOT** gate
 
 2 - toggle **qubit 2** as the one in wich the gate will be applied (if the gate is CNOT, it chooses **qubit 2** as the control)
 
+### Others
+
+p - pause
+
+esc - quit
+
 ## Tutorial
 https://github.com/Joao-Bernardo/IBMQ_AWARDS/blob/master/Tutorial.md
 
