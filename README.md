@@ -3,6 +3,10 @@ Project for the IBMQ awards 2019 contest. Watch the video below!
 
 https://www.youtube.com/watch?v=VuZNc3Ej0ME&t
 
+If you want to instal this game on your Desktop, follow the steps on the video below!
+
+https://www.youtube.com/watch?v=3koUgjw_Nh4
+
 ## Description
 
 Welcome to the **QUANTIC TETRIS!** This is an almost normal Tetris game, but with a small difference that it is based on quantum mechanics properties like  **superposition**, **wave function colapse**, **entanglement** and **mixed states**. If you want to master this game you will need to apply some quantum logic gates like **X**, **Hadamard**, **Z** and **CNOT** to manipulate your state and score a lot of points!
