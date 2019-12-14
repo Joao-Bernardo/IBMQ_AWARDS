@@ -3,7 +3,7 @@ Project for the IBMQ awards 2019 contest. Watch the video below!
 
 https://www.youtube.com/watch?v=VuZNc3Ej0ME&t
 
-If you want to instal this game on your Desktop, follow the steps on the video below!
+If you want to install this game on your Desktop, follow the steps on the video below!
 
 https://www.youtube.com/watch?v=3koUgjw_Nh4
 
